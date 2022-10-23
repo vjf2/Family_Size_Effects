@@ -2,6 +2,8 @@
 
 *Small effects of family size on sociality despite strong kin preferences in female bottlenose dolphins*
 
+[![DOI](https://zenodo.org/badge/556440814.svg)](https://zenodo.org/badge/latestdoi/556440814)
+
 **Analysis Code**
 <ul>
   <li>01_Simulation.R  - <i>simulate null model groups</i></li>
